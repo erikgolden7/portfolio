@@ -637,6 +637,9 @@ footer ul.quicklinks {
 ul.social-buttons {
   margin-bottom: 0;
 }
+ul.social-buttons li {
+  margin: 60px 0 40px 0;
+}
 ul.social-buttons li a {
   display: flex;
   justify-content: center;

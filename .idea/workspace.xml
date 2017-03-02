@@ -21,8 +21,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="387">
-              <caret line="271" column="31" lean-forward="false" selection-start-line="271" selection-start-column="31" selection-end-line="271" selection-end-column="31" />
+            <state relative-caret-position="323">
+              <caret line="271" column="26" lean-forward="false" selection-start-line="271" selection-start-column="26" selection-end-line="271" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -31,8 +31,8 @@
       <file leaf-file-name="agency.less" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/less/agency.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="547" column="0" lean-forward="false" selection-start-line="547" selection-start-column="0" selection-end-line="547" selection-end-column="17" />
+            <state relative-caret-position="179">
+              <caret line="616" column="23" lean-forward="false" selection-start-line="616" selection-start-column="23" selection-end-line="616" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -41,8 +41,8 @@
       <file leaf-file-name="agency.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scss/agency.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="555" column="17" lean-forward="false" selection-start-line="555" selection-start-column="17" selection-end-line="555" selection-end-column="17" />
+            <state relative-caret-position="275">
+              <caret line="624" column="23" lean-forward="false" selection-start-line="624" selection-start-column="23" selection-end-line="624" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -52,10 +52,10 @@
         <entry file="file://$PROJECT_DIR$/css/agency.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="561">
-              <caret line="781" column="1" lean-forward="false" selection-start-line="781" selection-start-column="1" selection-end-line="781" selection-end-column="1" />
+              <caret line="784" column="1" lean-forward="false" selection-start-line="784" selection-start-column="1" selection-end-line="784" selection-end-column="1" />
               <folding>
-                <marker date="1488428626000" expanded="true" signature="16885:16977" ph="{...}" />
-                <marker date="1488428626000" expanded="true" signature="16987:17011" ph="{...}" />
+                <marker date="1488429213000" expanded="true" signature="16928:17020" ph="{...}" />
+                <marker date="1488429213000" expanded="true" signature="17030:17054" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -99,6 +99,9 @@
       <find>section#</find>
       <find>ul.so</find>
       <find>section#con</find>
+      <find>section#c</find>
+      <find>ul.soc</find>
+      <find>ul.social</find>
     </findStrings>
     <replaceStrings>
       <replace>#18BD9B</replace>
@@ -327,12 +330,12 @@
       <option name="presentableId" value="Default" />
       <updated>1488394639985</updated>
       <workItem from="1488394641439" duration="12606000" />
-      <workItem from="1488422215372" duration="5063000" />
+      <workItem from="1488422215372" duration="5435000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17669000" />
+    <option name="totallyTimeSpent" value="18041000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1680" y="-114" width="1920" height="1080" extended-state="6" />
@@ -399,8 +402,8 @@
         <state relative-caret-position="256">
           <caret line="16" column="17" lean-forward="false" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
           <folding>
-            <marker date="1488428626000" expanded="true" signature="16885:16977" ph="{...}" />
-            <marker date="1488428626000" expanded="true" signature="16987:17011" ph="{...}" />
+            <marker date="1488429213000" expanded="true" signature="16928:17020" ph="{...}" />
+            <marker date="1488429213000" expanded="true" signature="17030:17054" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -570,34 +573,34 @@
     <entry file="file://$PROJECT_DIR$/css/agency.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
-          <caret line="781" column="1" lean-forward="false" selection-start-line="781" selection-start-column="1" selection-end-line="781" selection-end-column="1" />
+          <caret line="784" column="1" lean-forward="false" selection-start-line="784" selection-start-column="1" selection-end-line="784" selection-end-column="1" />
           <folding>
-            <marker date="1488428626000" expanded="true" signature="16885:16977" ph="{...}" />
-            <marker date="1488428626000" expanded="true" signature="16987:17011" ph="{...}" />
+            <marker date="1488429213000" expanded="true" signature="16928:17020" ph="{...}" />
+            <marker date="1488429213000" expanded="true" signature="17030:17054" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="271" column="31" lean-forward="false" selection-start-line="271" selection-start-column="31" selection-end-line="271" selection-end-column="31" />
+        <state relative-caret-position="323">
+          <caret line="271" column="26" lean-forward="false" selection-start-line="271" selection-start-column="26" selection-end-line="271" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/less/agency.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="547" column="0" lean-forward="false" selection-start-line="547" selection-start-column="0" selection-end-line="547" selection-end-column="17" />
+        <state relative-caret-position="179">
+          <caret line="616" column="23" lean-forward="false" selection-start-line="616" selection-start-column="23" selection-end-line="616" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scss/agency.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="555" column="17" lean-forward="false" selection-start-line="555" selection-start-column="17" selection-end-line="555" selection-end-column="17" />
+        <state relative-caret-position="275">
+          <caret line="624" column="23" lean-forward="false" selection-start-line="624" selection-start-column="23" selection-end-line="624" selection-end-column="23" />
           <folding />
         </state>
       </provider>
