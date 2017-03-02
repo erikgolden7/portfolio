@@ -26,6 +26,8 @@
     "url": "https://github.com/BlackrockDigital/startbootstrap-agency.git"
   },
   "dependencies": {
+    "body-parser": "^1.17.0",
+    "cookie-parser": "^1.4.3",
     "express": "^4.15.0",
     "gulp-babel": "^6.1.2",
     "gulp-cachebust": "0.0.6",
