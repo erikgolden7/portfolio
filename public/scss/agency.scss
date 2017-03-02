@@ -1,5 +1,5 @@
-@import "variables.scss";
-@import "mixins.scss";
+@import "variables";
+@import "mixins";
 
 // Global Components
 //rgb(24, 189, 155)
@@ -180,7 +180,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 header {
-    background-image: url('../img/pineapple.jpg');
+    background-image: url('../public/img/pineapple.jpg');
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center center;
@@ -550,7 +550,7 @@ aside.clients {
 
 section#contact {
     background-color: $gray-darker;
-    background-image: url('../img/map-image.png');
+    background-image: url('../public/img/map-image.png');
     background-position: center;
     background-repeat: no-repeat;
     height: 69vh;
